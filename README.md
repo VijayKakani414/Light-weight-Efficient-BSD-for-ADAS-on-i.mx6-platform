@@ -2,6 +2,8 @@
 
 This repository contains all my research project details pertaining to the light-weight efficient Blind-spot detection (BSD) for ADAS on i.mx6 platform
 
+![Matiz](https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/5e21c3c0-aec7-4250-be6a-6957887ed344)
+![TruckBSD](https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/2a5926f1-7c89-45b7-a3e4-c545e68a4cd2)
 
 
 ## Overview
@@ -34,16 +36,18 @@ cd Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/src
 
 ## Custom i.mx6 board made by Wise Automotive Korea and BSD model deployed at CV Lab, INHA Univ.
 
+<img width="725" alt="i mx6" src="https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/8e3baba9-baca-4df6-9cb5-54a57d51c32c">
 
 
 ## BSD Red and Blue zones displayed via BSD cameras detailing MUST DETECT Zones
 
-
+![MatizROI](https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/6bdac756-0b75-4d7a-beb3-0c506efcfb4d)
 
 
 ## BSD results at daytime and night time
 
-
+<img width="881" alt="BSD" src="https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/a42e8f27-5ee1-41d0-9791-5a58093b523e">
+<img width="466" alt="Night_Truck" src="https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/0dd57fad-bb85-4585-9917-fe3a65b47f1c">
 
 
 ## Contribution Guidelines
