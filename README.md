@@ -2,8 +2,8 @@
 
 This repository contains all my research project details pertaining to the light-weight efficient Blind-spot detection (BSD) for ADAS on i.mx6 platform
 
-![BSD_demo](https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/55c096b3-2765-488e-ae68-3b83063d695e)
 ![TruckBSD](https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/2a5926f1-7c89-45b7-a3e4-c545e68a4cd2)
+![BSD_demo](https://github.com/VijayKakani414/Light-weight-Efficient-BSD-for-ADAS-on-i.mx6-platform/assets/25151205/55c096b3-2765-488e-ae68-3b83063d695e)
 
 
 ## Overview
